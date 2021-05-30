@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.cpp
+!*.c
+!*.hpp
+!*.h
+!block_status.txt
+!conlog.bin
